@@ -1,3 +1,0 @@
-{
-    "data": "{ '$set': { 'done': true } }"
-}

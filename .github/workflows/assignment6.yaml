@@ -29,5 +29,3 @@ jobs:
       - name: Unit tests 
         run: |
           python -m pytest -m task2
-
-    
